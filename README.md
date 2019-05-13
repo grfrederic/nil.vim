@@ -1,0 +1,2 @@
+# nil integration for Vim
+
