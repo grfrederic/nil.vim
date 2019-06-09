@@ -9,6 +9,7 @@ syntax keyword nilTodos TODO XXX FIXME NOTE
 
 " operators
 syntax match nilOperator "\v\:"
+syntax match nilOperator "\v\!"
 syntax match nilOperator "\v\?"
 syntax match nilOperator "\v\<\-"
 syntax match nilOperator "\v\-\>"
